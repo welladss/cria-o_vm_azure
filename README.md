@@ -1,15 +1,18 @@
 # criacao_vm_azure
 Criação de Máquina Virtual (Desafio DIO)
 
+---
+
 Este repositório contém anotações e resumos sobre o processo de criação e configuração de uma máquina virtual na plataforma Microsoft Azure. O projeto faz parte do desafio proposto pela DIO.
 
+---
 
 Objetivos de Aprendizagem
 
 - Praticar a criação de uma VM no Azure
 - Documentar os passos técnicos de forma clara
 
-
+----
 
 Etapas Realizadas
 
